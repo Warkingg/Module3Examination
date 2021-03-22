@@ -1,0 +1,12 @@
+model/services/IProductService.java
+ model.services.IProductService
+model/services/ProductServiceImp.java
+ model.services.ProductServiceImp
+model/entities/Product.java
+ model.entities.Product
+model/entities/Category.java
+ model.entities.Category
+JDBC/DBConnection.java
+ JDBC.DBConnection
+controller/ProductServlet.java
+ controller.ProductServlet
